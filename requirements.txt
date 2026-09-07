@@ -1,0 +1,2 @@
+python-roborock==5.36.0
+mcp==1.28.1

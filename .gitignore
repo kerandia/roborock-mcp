@@ -1,0 +1,22 @@
+# Credentials, private configuration, and runtime data
+.env
+.env.*
+!.env.example
+roborock_user_data.json
+*_user_data.json
+*_config.json
+*.sqlite3*
+*.db
+*.log
+.runtime/
+.claude/
+.codex/
+.agents/
+
+# Python and local tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
